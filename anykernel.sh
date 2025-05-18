@@ -1,10 +1,8 @@
-### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers
+### AnyKernel3 By Tea
+### AnyKernel setu
 
-### AnyKernel setup
-# global properties
 properties() { '
-kernel.string=Wild Plus Kernel by TheWildJames or Morgan Weedman
+kernel.string=Kernel Custom by Tea (nemo)
 do.devicecheck=0
 do.modules=0
 do.systemless=0
