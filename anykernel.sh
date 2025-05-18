@@ -1,5 +1,5 @@
 ### AnyKernel3 By Tea
-### AnyKernel setu
+### AnyKernel setup
 
 properties() { '
 kernel.string=Kernel Custom by Tea (nemo)
